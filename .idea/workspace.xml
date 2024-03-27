@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04c07c98-d977-4b24-a057-0ee63235ae87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratique1-sistemaDeCadastroENotificacao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Controller/Sistema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Model/Evento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Model/EventoCategoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/View/InterfaceUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
